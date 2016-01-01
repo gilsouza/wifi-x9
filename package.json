@@ -1,0 +1,31 @@
+{
+  "name": "wifix9",
+  "version": "1.0.0",
+  "description": "Assim podes saber quem entra e quem sai em sua rede wifi",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gilsouza/wifix9.git"
+  },
+  "keywords": [
+    "wifi",
+    "socket",
+    "x9",
+    "sagecom"
+  ],
+  "author": "Gil Souza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gilsouza/wifix9/issues"
+  },
+  "homepage": "https://github.com/gilsouza/wifix9#readme",
+  "dependencies": {
+    "express": "^4.13.3",
+    "md5": "^2.0.0",
+    "request": "^2.67.0",
+    "socket.io": "^1.3.7"
+  }
+}

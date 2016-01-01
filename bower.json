@@ -1,0 +1,29 @@
+{
+  "name": "wifix9",
+  "description": "Assim podes saber quem entra e quem sai em sua rede wifi",
+  "main": "app.js",
+  "authors": [
+    "Gil Souza"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "wifi",
+    "socket",
+    "x9",
+    "sagecom"
+  ],
+  "moduleType": [
+    "node"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6"
+  }
+}
